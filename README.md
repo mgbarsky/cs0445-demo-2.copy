@@ -1,2 +1,2 @@
-# cs0445-demo-2.copy
-Demo code for Lecture 2: Copying objects
+# Demo for CS 445 
+Lecture 2: Copying objects
